@@ -1,0 +1,142 @@
+*** A ***
+
+	academias
+		Institutos, politécnicos, universidades o bases militares que se encuentran activos en sus funciones.
+	
+	accesos
+		Usuarios dentro del sistema al que se le brinda una entrada dependiendo de su rol.
+	
+	acciones
+		Razones por la cual se ejecuta un proceso, entre ellas se encuentran: entrada, salida, procesar.
+	
+	auditorias
+		Hace referencia a los procesos en específico e indica los datos involucrados en los mismos.
+
+*** B ***
+*** C ***
+
+	canchas
+		Sitios o lugares en los cuales se ejecuta una evaluación especifica.
+	
+	cla_acc
+		Contraseña del usuario de una persona.
+	
+	companias
+		Alias de compañias la cual hace referencia a los grupos o conjuntos de cadetes en una academia.
+
+*** D ***
+*** E ***
+
+	edi_aud
+		Información ingresada por el usuario que modifica o cambia la información anterior.
+
+	estatus
+		Estados en los cuales el sistema muestra o oculta determinada información, tambien puede usarse para permititr o denegar el accesos de los usuarios.
+	
+	evaluaciones
+		Calificaciones otorgadas a los cadetes que participan en determinadas canchas.
+
+*** F ***
+*** G ***
+*** H ***
+
+	hab_aud
+		Información consultada antes de ser editada.
+
+*** I ***
+
+	id_aca
+		Identificador de una academia.
+	
+	id_acc
+		Identificador de un acceso.
+
+	id_aci
+		Identificador de una acción.
+
+	id_aud
+		Identificador de una auditoria.
+
+	id_can
+		Identificador de una cancha.
+	
+	id_est
+		Identificador de un estatus.
+
+	id_mot
+		Identificador de un motivo.
+	
+	id_per
+		Identificador de una persona.
+
+	id_pro
+		Identificador de un proceso.
+
+	id_pos
+		Identificador de una posicion.
+
+*** J ***
+
+	jerarquias
+		Grado militar o nivel de instrucción academica de un usuario.
+
+*** K ***
+*** L ***
+
+	lug_aud
+		Modulo en el que se efectua un proceso en cual hace referencia a una auditoria específica.
+
+*** M ***
+
+	motivos
+		Razones especificas de una auditoria, entre ellas se encuentran: registrar, insertar, editar, eliminar, reporte.
+
+*** N ***
+
+	nom_aca
+		Nombre de una academia.
+
+	nom_aci
+		Nombre de una acción.
+
+	nom_can
+		Nombre de una cancha.
+
+*** Ñ ***
+*** O ***
+*** P ***
+
+	personas
+		Todos los usuarios del sistema
+	
+	procesos
+		Eventos que ocurren en el sistema, en los cuales se indican los responsables de los mismos.
+
+	posicion
+		Registra el promedio de los cadetes
+
+	pro_pos
+		Promedio de un cadete.
+
+*** Q ***
+*** R ***
+
+	roles
+		Nivel de jerarquia que posee un usuario, indica los permisos que se tienen en el sistema.
+
+*** S ***
+	
+	sexos
+		Género biológico de un usuario.
+
+*** T ***
+*** U ***
+
+	usu_acc
+		Nombre del usuario de una persona.
+
+*** V ***
+*** W ***
+*** X ***
+*** Y ***
+*** Z ***

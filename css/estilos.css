@@ -1,0 +1,190 @@
+@font-face {
+	font-family: 'BebasNeueRegular';
+	src: url('fonts/BebasNeue-webfontkit/BebasNeue-webfont.eot');
+	src: url('fonts/BebasNeue-webfontkit/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('fonts/BebasNeue-webfontkit/BebasNeue-webfont.woff') format('woff'),
+		 url('fonts/BebasNeue-webfontkit/BebasNeue-webfont.ttf') format('truetype'),
+		 url('fonts/BebasNeue-webfontkit/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	background: transparent;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: 'BebasNeueRegular';
+	color: #FFFFFF;
+	text-shadow: 0 0 5px #00c6ff;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+header {
+	height: 130px;
+}
+header b {
+	letter-spacing: 15px;
+	font-size:260%;
+}
+section {
+	margin: 2% auto;
+}
+/*-------------------------
+	la marquesina
+-------------------------*/
+
+#cintillo {
+	height: 45px;
+	margin-top: 5px;
+}
+.marquesina {
+	font-size: 1.4em;
+	box-shadow: 0 2px 5px -3px #0000;
+	border-radius: 6px;
+}
+.marquesina ul li {
+	list-style: none;
+	padding: 10px 10px;
+}
+
+#ventanaEditar {
+	color: #000000;
+	text-shadow: none;
+}
+.input-lg {
+	padding: 5px 5px;
+	font-size:1.2em;
+}
+
+.modal-header {
+	padding:9px 15px;
+	border-bottom:1px solid #eee;
+	background-color: #0480be;
+	-webkit-border-top-left-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	 border-top-left-radius: 5px;
+	 border-top-right-radius: 5px;
+ }
+
+/*----------------------------
+Selectize
+-----------------------------*/
+.selectize-control.idprofes {
+	height: 45px;
+	font-size: 1.2em;
+}
+
+/*----------------------------
+	El Reloj
+-----------------------------*/
+
+.clock {
+	width: 93%;
+	padding: 5px 5px;
+	position: relative;
+	bottom: 0;
+	left: 36%;
+	margin-top: 10%;
+	margin-left: -420px;
+	padding: 5px 5px;
+	border: 0px solid #CCCCCC;
+	color: #fff;
+	font-size:1.5em;
+	border-radius:20px 20px;
+}
+
+#Date {
+	font-family: 'BebasNeueRegular', Arial, Helvetica, sans-serif;
+	font-size: 60px;
+	text-align: center;
+	text-shadow: 0 0 5px #00c6ff;
+	letter-spacing: 15px
+}
+
+.clock ul {
+	width: 80%;
+	margin: 0 auto;
+	padding: 0px;
+	list-style: none;
+	text-align: center;
+}
+
+.clock ul li {
+	display: inline;
+	font-size: 10em;
+	text-align: center;
+	font-family: 'BebasNeueRegular', Arial, Helvetica, sans-serif;
+	text-shadow: 0 0 5px #00c6ff;
+}
+
+#point {
+	position: relative;
+	-moz-animation: mymove 1s ease infinite;
+	-webkit-animation: mymove 1s ease infinite;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+/* Simple Animation */
+@-webkit-keyframes mymove {
+	0% {opacity: 1.0;
+	text-shadow: 0 0 20px #00c6ff;
+	}
+
+	50% {
+		opacity: 0;
+		text-shadow: none;
+	}
+
+	100% {
+		opacity: 1.0;
+		text-shadow: 0 0 20px #00c6ff;
+	}   
+}
+
+@-moz-keyframes mymove {
+	0% {
+		opacity: 1.0;
+		text-shadow: 0 0 20px #00c6ff;
+	}
+
+	50% {
+		opacity: 0;
+		text-shadow: none;
+	}
+
+	100% {
+		opacity: 1.0;
+		text-shadow: 0 0 20px #00c6ff;
+	};
+}
+
+
+/*----------------------------
+	The Demo Footer
+-----------------------------*/
+
+footer {
+	clear: both;
+	color:#5A6779;
+	text-align: center;
+	font-size: 11px;
+	letter-spacing: 0px;
+	width: 900px;
+	padding: 0px 0px;
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	margin-left: -420px;
+	/*background-color:#4a5855;*/
+	/*border-radius:2px 2px 0 0;*/
+	z-index:1;
+}
