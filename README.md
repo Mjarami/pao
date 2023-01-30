@@ -3,6 +3,7 @@ Sistema para el control academico de las maniobras del proceso de seleccion mili
 
 Version de php 7.4 y BD en MariaDB
 
+![imagen](https://user-images.githubusercontent.com/95016410/215372158-82dd81b8-464b-4223-9560-421634682591.png)
 ![imagen](https://user-images.githubusercontent.com/95016410/215371661-53bd8f18-d9cb-4fbd-a8da-5a67d33b0869.png)
 ![imagen](https://user-images.githubusercontent.com/95016410/215371670-b914be84-3595-4826-b28c-7d4c99b116cc.png)
 ![imagen](https://user-images.githubusercontent.com/95016410/215371684-680ee295-71dc-4296-811a-2cbc78d354e2.png)
