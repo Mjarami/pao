@@ -7,7 +7,6 @@ Version de php 7.4 y BD en MariaDB
 ![imagen](https://user-images.githubusercontent.com/95016410/215371661-53bd8f18-d9cb-4fbd-a8da-5a67d33b0869.png)
 ![imagen](https://user-images.githubusercontent.com/95016410/215371670-b914be84-3595-4826-b28c-7d4c99b116cc.png)
 ![imagen](https://user-images.githubusercontent.com/95016410/215371684-680ee295-71dc-4296-811a-2cbc78d354e2.png)
-![imagen](https://user-images.githubusercontent.com/95016410/215371643-b7cd379f-087e-444b-9593-da02ed2793f8.png)
 ![imagen](https://user-images.githubusercontent.com/95016410/215371705-2867d3d6-9fca-4ef9-a749-86bb16ad0f5a.png)
 ![imagen](https://user-images.githubusercontent.com/95016410/215371724-34088542-a959-490f-8e48-17fa34e0207a.png)
 ![imagen](https://user-images.githubusercontent.com/95016410/215371730-e7bda775-1de3-4959-93ba-d0c6ac6d3bc6.png)
